@@ -10,8 +10,10 @@ I play bass, guitar and program anything possible! -->
 <i class="fa-brands fa-aws"  style="color:#f79400"></i>
 <i class="fa-brands fa-ubuntu" style="color:#e24d0e"></i>
 </h3>
-I am working as both maintainer and developper in [ABCC.com](https://abcc.com), a Singapore based cryptocurrency exchange platform
-
+I worked as both backend maintainer and developper in [ABCC.com](https://abcc.com), a Singapore based cryptocurrency exchange platform.
+Mainly using in Golang to develop new service and perform maintenance to part of Node.js and Python app.
+Learnt much about the duty to maintain or add features or bug fixes to a production level platform.
+Working with nice DevOps, I experienced in practice in development cycle, version control, CICD practice and containerised microservice.
 <br>
 <h4 id="job-hkpc"><i class="fa-solid fa-microchip" style="color:#ff70a6"></i>    <b style="color:#ff70a6"> Engineering Officer in HKPC.org</b></h4>
 <h3>
